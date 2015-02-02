@@ -1,0 +1,102 @@
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.exe.config
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.exe
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\log4net.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Newtonsoft.Json.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.IO.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Runtime.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Threading.Tasks.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Zlib.Portable.dll
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\log4net.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Newtonsoft.Json.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.IO.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Runtime.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\System.Threading.Tasks.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\bin\Debug\Zlib.Portable.xml
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.csproj.App.config
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.csprojResolveAssemblyReference.cache
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.exe
+c:\users\haykel\documents\visual studio 2013\Projects\FreshVaseGoogleCalendarService\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.exe.config
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.exe
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.exe
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\FreshVaseGoogleCalendarService.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\log4net.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Newtonsoft.Json.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.IO.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Extensions.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Primitives.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.WebRequest.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Runtime.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Threading.Tasks.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Zlib.Portable.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.Core.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Google.Apis.PlatformServices.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\log4net.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Newtonsoft.Json.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.IO.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Extensions.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.Primitives.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Net.Http.WebRequest.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Runtime.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\System.Threading.Tasks.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\bin\Debug\Zlib.Portable.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.csproj.App.config
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\GooglePhidget\FreshVaseGoogleCalendarServiceProcess\FreshVaseGoogleCalendarService\obj\Debug\FreshVaseGoogleCalendarService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.pdb
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\bin\Debug\Beans.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\bin\Debug\Phidget21MSI_Helpers.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.dll
+C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\Phidget21MSI_Helpers.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.pdb

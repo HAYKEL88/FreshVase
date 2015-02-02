@@ -1,0 +1,6 @@
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\obj\Debug\FreshVaseWebServiceSMS.csprojResolveAssemblyReference.cache
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\bin\Debug\FreshVaseWebServiceSMS.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\bin\Debug\FreshVaseWebServiceSMS.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\bin\Debug\Beans.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\obj\Debug\FreshVaseWebServiceSMS.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\FreshVaseWebServiceSMS\FreshVaseWebServiceSMS\obj\Debug\FreshVaseWebServiceSMS.pdb
