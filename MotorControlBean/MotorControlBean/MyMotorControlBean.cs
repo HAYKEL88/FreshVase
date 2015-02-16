@@ -157,6 +157,7 @@ namespace WComp.Beans
         void motoControl_Attach(object sender, AttachEventArgs e)
         {
             MotorControl attached = (MotorControl)sender;
+            Console.WriteLine("Motor attached");
            
             //supplyVoltageTimer.Start();
             

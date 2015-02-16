@@ -1,0 +1,5 @@
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\bin\Debug\StringToInt.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\bin\Debug\StringToInt.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\ResolveAssemblyReference.cache
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\StringToInt.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\StringToInt.pdb

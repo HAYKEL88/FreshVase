@@ -1,0 +1,11 @@
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\obj\Debug\StringToInt.csprojResolveAssemblyReference.cache
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\bin\Debug\StringToInt.dll
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\bin\Debug\StringToInt.pdb
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\bin\Debug\Beans.dll
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\obj\Debug\StringToInt.dll
+C:\Users\Haykel\Documents\SharpDevelop Projects\StringToInt\StringToInt\obj\Debug\StringToInt.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\bin\Debug\StringToInt.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\bin\Debug\StringToInt.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\StringToInt.csprojResolveAssemblyReference.cache
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\StringToInt.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\StringToInt\StringToInt\obj\Debug\StringToInt.pdb
