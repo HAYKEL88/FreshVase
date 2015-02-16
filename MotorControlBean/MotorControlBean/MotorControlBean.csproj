@@ -34,14 +34,8 @@
     <Reference Include="Beans">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files %28x86%29\SharpDevelop\3.0\Beans\Beans.dll</HintPath>
     </Reference>
-    <Reference Include="phidget21">
-      <HintPath>C:\Program Files\Phidgets\phidget21.dll</HintPath>
-    </Reference>
     <Reference Include="Phidget21.NET">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Phidgets\Phidget21.NET.dll</HintPath>
-    </Reference>
-    <Reference Include="Phidget21COM">
-      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Phidgets\Phidget21COM.dll</HintPath>
     </Reference>
     <Reference Include="Phidget21MSI_Helpers">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Phidgets\Phidget21MSI_Helpers.dll</HintPath>

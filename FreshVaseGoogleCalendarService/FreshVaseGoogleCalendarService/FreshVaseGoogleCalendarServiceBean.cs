@@ -33,6 +33,11 @@ namespace WComp.Beans
 		/// Fill in private attributes here.
 		/// </summary>
 		private Boolean state=false;
+		private Boolean ledLevel1=false;
+		private Boolean ledLevel2=false;
+		private Boolean ledLevel3=false;
+		
+		
 		private Process proc=null;
 
 		/// <summary>
@@ -43,6 +48,33 @@ namespace WComp.Beans
 			set {
 				state = value;
 				FireBooleanEvent(state);		// event will be fired for every property set.
+			}
+		}
+		
+		
+		public Boolean ledLevel1State {
+			get { return ledLevel1; }
+			set {
+				ledLevel1 = value;
+				FireBooleanEvent(ledLevel1);		// event will be fired for every property set.
+			}
+		}
+		
+		
+		public Boolean ledLevel2State {
+			get { return ledLevel2; }
+			set {
+				ledLevel2 = value;
+				FireBooleanEvent(ledLevel2);		// event will be fired for every property set.
+			}
+		}
+		
+		
+		public Boolean ledLevel3State {
+			get { return ledLevel3; }
+			set {
+				ledLevel3 = value;
+				FireBooleanEvent(ledLevel3);		// event will be fired for every property set.
 			}
 		}
 
@@ -57,15 +89,27 @@ namespace WComp.Beans
 			if(File.Exists("D:\\GooglePhidget\\state.true"))
             {
 				state=true;
+				ledLevel1=true;
+				ledLevel2=true;
+				ledLevel3=true;
 				FireBooleanEvent(state);
+				FireBooleanEvent1(ledLevel1);
+				FireBooleanEvent2(ledLevel2);
+				FireBooleanEvent3(ledLevel3);
 			}
 			else
 			{
 				Boolean tempstate=state;
 				state=false;
+				ledLevel1=false;
+				ledLevel2=false;
+				ledLevel3=false;
 				if(tempstate==true)
 				{
 				FireBooleanEvent(state);
+				FireBooleanEvent1(ledLevel1);
+				FireBooleanEvent2(ledLevel2);
+				FireBooleanEvent3(ledLevel3);
 				}
 			}
 			
@@ -95,15 +139,33 @@ namespace WComp.Beans
 		/// A function checking nullity should be used to fire events (like FireIntEvent).
 		/// </summary>
 		public delegate void BooleanValueEventHandler(Boolean val);
+		public delegate void BooleanValueEvent1Handler(Boolean val);
+		public delegate void BooleanValueEvent2Handler(Boolean val);
+		public delegate void BooleanValueEvent3Handler(Boolean val);
 		/// <summary>
 		/// the following declaration is the event by itself. Its name, here "PropertyChanged",
 		/// is the name of the event as it will be displayed in the bean type's interface.
 		/// </summary>
 		public event BooleanValueEventHandler FreshVaseStateChanged;
+		public event BooleanValueEvent1Handler LedLevel1StateChanged;
+		public event BooleanValueEvent2Handler LedLevel2StateChanged;
+		public event BooleanValueEvent3Handler LedLevel3StateChanged;
 		
 		private void FireBooleanEvent(Boolean i) {
 			if (FreshVaseStateChanged != null)
 				FreshVaseStateChanged(i);
+		}
+		private void FireBooleanEvent1(Boolean i) {
+			if (LedLevel1StateChanged != null)
+				LedLevel1StateChanged(i);
+		}
+		private void FireBooleanEvent2(Boolean i) {
+			if (LedLevel2StateChanged != null)
+				LedLevel2StateChanged(i);
+		}
+		private void FireBooleanEvent3(Boolean i) {
+			if (LedLevel3StateChanged != null)
+				LedLevel3StateChanged(i);
 		}
 	}
 }

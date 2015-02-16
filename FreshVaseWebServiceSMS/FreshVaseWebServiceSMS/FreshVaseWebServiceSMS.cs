@@ -32,6 +32,9 @@ namespace WComp.Beans
 	{
 		private int motorVelocity=0;
 		private Boolean motorState=false;
+		private Boolean ledLevel1=false;
+		private Boolean ledLevel2=false;
+		private Boolean ledLevel3=false;
 
 		public int MyMotorVelocity {
 			get { return motorVelocity; }
@@ -50,13 +53,48 @@ namespace WComp.Beans
 			}
 		}
 
+		
+		public Boolean ledLevel1State {
+			get { return ledLevel1; }
+			set {
+				ledLevel1 = value;
+				FireBooleanEvent(ledLevel1);		// event will be fired for every property set.
+			}
+		}
+		
+		
+		public Boolean ledLevel2State {
+			get { return ledLevel2; }
+			set {
+				ledLevel2 = value;
+				FireBooleanEvent(ledLevel2);		// event will be fired for every property set.
+			}
+		}
+		
+		
+		public Boolean ledLevel3State {
+			get { return ledLevel3; }
+			set {
+				ledLevel3 = value;
+				FireBooleanEvent(ledLevel3);		// event will be fired for every property set.
+			}
+		}
+		
+		
 
 
 		public delegate void IntValueEventHandler(int val);
 		public delegate void BooleanValueEventHandler(Boolean val);
+		public delegate void BooleanValueEvent1Handler(Boolean val);
+		public delegate void BooleanValueEvent2Handler(Boolean val);
+		public delegate void BooleanValueEvent3Handler(Boolean val);
+		
 
 		public event IntValueEventHandler MotorVelocityChanged;
 		public event BooleanValueEventHandler MotorStateChanged;
+		public event BooleanValueEvent1Handler LedLevel1StateChanged;
+		public event BooleanValueEvent2Handler LedLevel2StateChanged;
+		public event BooleanValueEvent3Handler LedLevel3StateChanged;
 		
 		private void FireIntEvent(int i) {
 			if (MotorVelocityChanged != null)
@@ -66,6 +104,19 @@ namespace WComp.Beans
 		private void FireBooleanEvent(Boolean i) {
 			if (MotorStateChanged != null)
 				MotorStateChanged(i);
+		}
+		
+		private void FireBooleanEvent1(Boolean i) {
+			if (LedLevel1StateChanged != null)
+				LedLevel1StateChanged(i);
+		}
+		private void FireBooleanEvent2(Boolean i) {
+			if (LedLevel2StateChanged != null)
+				LedLevel2StateChanged(i);
+		}
+		private void FireBooleanEvent3(Boolean i) {
+			if (LedLevel3StateChanged != null)
+				LedLevel3StateChanged(i);
 		}
 		
 		
@@ -169,6 +220,32 @@ namespace WComp.Beans
                 {
 					motorState=state;
 					motorVelocity=velocity;
+					
+					if(velocity < 35)
+					{
+						ledLevel1=true;
+						ledLevel2=false;
+						ledLevel3=false;
+
+					}
+					if( (velocity > 34) && (velocity <70) )
+					{
+						ledLevel1=true;
+						ledLevel2=true;
+						ledLevel3=false;
+
+					}
+					if(velocity > 69)
+					{
+						ledLevel1=true;
+						ledLevel2=true;
+						ledLevel3=true;
+
+					}
+					
+					FireBooleanEvent1(ledLevel1);
+					FireBooleanEvent2(ledLevel2);
+					FireBooleanEvent3(ledLevel3);
                 	FireBooleanEvent(motorState);     	
                 	FireIntEvent(motorVelocity);
 
@@ -177,6 +254,13 @@ namespace WComp.Beans
                 if ((state == false) && (Math.Abs((startTime - DateTime.Now).TotalMinutes) < 3))
                 {
                 	motorState=state;
+                	ledLevel1=false;
+					ledLevel2=false;
+					ledLevel3=false;
+					
+					FireBooleanEvent1(ledLevel1);
+					FireBooleanEvent2(ledLevel2);
+					FireBooleanEvent3(ledLevel3);
 				FireBooleanEvent(motorState);
                 }
             }
