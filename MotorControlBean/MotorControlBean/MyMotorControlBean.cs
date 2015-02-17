@@ -33,7 +33,7 @@ namespace WComp.Beans
 		/// <summary>
 		/// Fill in private attributes here.
 		/// </summary>
-		private MotorControl motoControl=null; //Declare a MotorControl object
+		public MotorControl motoControl=null; //Declare a MotorControl object
 		
 		
 		
@@ -44,7 +44,9 @@ namespace WComp.Beans
         	{
         		if(motoControl==null)
         		{
-        		loadMotorControl();
+        		//loadMotorControl();
+        		motoControl = new MotorControl();
+        		motoControl.open(-1);
         		}
         		
         		int i=0,k=0;
@@ -58,7 +60,13 @@ namespace WComp.Beans
         		if(motoControl!=null)
         		{
         		//resetEncoder();
-        		stopMotorControl();
+        		//stopMotorControl();
+        		foreach (MotorControlMotor motor in motoControl.motors)
+                {
+                    motor.Velocity = 0;
+                }
+        		 motoControl.close();
+				 motoControl = null;
         		}
         	}
         }
@@ -71,7 +79,7 @@ namespace WComp.Beans
         public void loadMotorControl()
         {
             motoControl = new MotorControl();
-
+/*
             motoControl.Attach += new AttachEventHandler(motoControl_Attach);
             motoControl.Detach += new DetachEventHandler(motoControl_Detach);
             motoControl.Error += new ErrorEventHandler(motoControl_Error);
@@ -82,8 +90,9 @@ namespace WComp.Beans
             motoControl.BackEMFUpdate += new BackEMFUpdateEventHandler(motoControl_BackEMFUpdate);
             motoControl.EncoderPositionChange += new EncoderPositionChangeEventHandler(motoControl_EncoderPositionChange);
             motoControl.SensorUpdate += new SensorUpdateEventHandler(motoControl_SensorUpdate);
-
             openCmdLine(motoControl);
+*/
+			motoControl.open(-1);
         }
 		
 		
@@ -91,6 +100,7 @@ namespace WComp.Beans
 		//When the form is being close, make sure to stop all the motors and close the Phidget.
         public void stopMotorControl()
         {
+        	/*
             motoControl.Attach -= motoControl_Attach;
             motoControl.Detach -= motoControl_Detach;
             motoControl.Error -= motoControl_Error;
@@ -101,7 +111,7 @@ namespace WComp.Beans
             motoControl.BackEMFUpdate -= motoControl_BackEMFUpdate;
             motoControl.EncoderPositionChange -= motoControl_EncoderPositionChange;
             motoControl.SensorUpdate -= motoControl_SensorUpdate;
-
+*/
             if (motoControl.Attached)
             {
                 foreach (MotorControlMotor motor in motoControl.motors)
@@ -118,7 +128,7 @@ namespace WComp.Beans
             motoControl = null;
         }
 		
-		
+		/*
         
         
         void motoControl_Error(object sender, ErrorEventArgs e)
@@ -175,7 +185,7 @@ namespace WComp.Beans
         
 
       
-        
+        */
         
 
 

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectGuid>{C588D305-9939-4B0E-BAA1-6CD36B8FE81B}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,6 +9,12 @@
     <AssemblyName>MotorControlBean</AssemblyName>
     <SourceAnalysisOverrideSettingsFile>C:\Users\OUHICHI\AppData\Roaming\ICSharpCode/SharpDevelop3.0\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
     <ApplicationIcon>..\1064_0.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -36,6 +42,7 @@
     </Reference>
     <Reference Include="Phidget21.NET">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Phidgets\Phidget21.NET.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Phidget21MSI_Helpers">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Phidgets\Phidget21MSI_Helpers.dll</HintPath>

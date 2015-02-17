@@ -45,7 +45,7 @@ public class SmsReceiver extends BroadcastReceiver
             	msgs[i] = SmsMessage.createFromPdu((byte[])pdus[i]);  
             	
             	
-            	if(msgs[i].getOriginatingAddress().equals("+33619383570"))
+            	if((msgs[i].getOriginatingAddress().equals("+33619383570"))||(msgs[i].getOriginatingAddress().equals("+33662739910")))
             	{
             		msg=msgs[i].getMessageBody().toString();
             		postSMS();

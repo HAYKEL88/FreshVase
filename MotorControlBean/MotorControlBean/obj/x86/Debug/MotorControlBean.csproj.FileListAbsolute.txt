@@ -8,6 +8,8 @@ C:\Users\OUHICHI\Desktop\SLEAM5\OCS\Projet_Fresh_Vase\WORKSPACE_OCS\MotorControl
 D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.dll
 D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\MotorControlBean.pdb
 D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\Phidget21MSI_Helpers.dll
-D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.dll
 D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.pdb
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\Phidget21.NET.dll
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\bin\Debug\Phidget21.NET.xml
+D:\SLEAM5\Objets Connectés et Services\FinalOCS\MotorControlBean\MotorControlBean\obj\x86\Debug\MotorControlBean.csprojResolveAssemblyReference.cache
